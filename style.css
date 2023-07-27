@@ -1,0 +1,39 @@
+.class1{
+	color: blue;
+	
+	
+	
+	
+}
+p{
+	color:red;
+}
+.class1 p{
+	color:yellowgreen;
+}
+.class1 #pfirst{
+color: aqua;
+}
+ h1{
+	
+	border-style: solid dotted dashed ridge;
+	border-width: 5px 10px 15px 20px;/* top leftrigt bottom*/
+	border-color: red green yellow blue;
+}
+
+.class1{
+	background:#fff url(image/hen.jpeg) no-repeat center center fixed ;
+}
+h2{
+	
+	
+	border-style: none none dashed;
+border-width:  5px;
+	border-radius: 6px;
+	border-color: aqua;
+}
+.class2{
+	height:500px;
+		width:500px;
+	border: 5px dotted green;
+}
